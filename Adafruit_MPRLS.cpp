@@ -33,7 +33,7 @@
 #else
  #include "WProgram.h"
 #endif
-#include "TinyWireM.h"
+#include "Wire.h"
 
 #include "Adafruit_MPRLS.h"
 
